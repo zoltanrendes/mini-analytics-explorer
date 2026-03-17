@@ -40,6 +40,29 @@ Instead of reusing existing code, I explored how analytics tools structure visua
 - reusable visual configuration
 - consistency between chart elements (e.g. legend and series colours)
 
+## Problem
+Sales teams often need quick answers without writing SQL.
+
+## Solution
+Mini Analytics Explorer provides:
+- simple query builder
+- instant visualizations
+- lightweight alternative to Metabase
+
+## Why I built this
+I wanted to understand how BI tools like Metabase work internally.
+
+## Key Features
+- dynamic query builder
+- chart rendering
+- filtering & grouping
+
+## Inspiration
+Inspired by Metabase:
+- self-service analytics
+- non-technical users
+- fast exploration
+
 ---
 
 ## Run locally
