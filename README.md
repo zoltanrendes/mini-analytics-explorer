@@ -1,5 +1,5 @@
 # Mini Analytics Explorer
-
+![App Screenshot](./screenshot.png)
 A small React + TypeScript + ECharts project inspired by data-heavy UI patterns found in analytics products.
 
 The goal was to explore how charting, filtering and tabular data interact in a real-world scenario, with a focus on clarity, consistency and simple component structure.
@@ -47,4 +47,3 @@ Instead of reusing existing code, I explored how analytics tools structure visua
 ```bash
 npm install
 npm run dev
-![Screenshot](./screenshot.png)
